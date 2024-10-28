@@ -1,0 +1,106 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Camry",
+        "origen": "Japonés",
+        "combustible": "Gasolina",
+        "carroceria": "Sedán",
+        "motor": "V6"
+    },
+    {
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "origen": "Alemán",
+        "combustible": "Gasolina",
+        "carroceria": "Hatchback",
+        "motor": "Turbo"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "F-150",
+        "origen": "Americano",
+        "combustible": "Gasolina",
+        "carroceria": "Pickup",
+        "motor": "V8"
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Civic",
+        "origen": "Japonés",
+        "combustible": "Gasolina",
+        "carroceria": "Sedán",
+        "motor": "Turbo"
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Silverado",
+        "origen": "Americano",
+        "combustible": "Diésel",
+        "carroceria": "Pickup",
+        "motor": "V8"
+    },
+    {
+        "marca": "BMW",
+        "modelo": "X5",
+        "origen": "Alemán",
+        "combustible": "Gasolina",
+        "carroceria": "SUV",
+        "motor": "Turbo"
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Leaf",
+        "origen": "Japonés",
+        "combustible": "Eléctrico",
+        "carroceria": "Hatchback",
+        "motor": "Eléctrico"
+    },
+    {
+        "marca": "Tesla",
+        "modelo": "Model S",
+        "origen": "Americano",
+        "combustible": "Eléctrico",
+        "carroceria": "Sedán",
+        "motor": "Eléctrico"
+    },
+    {
+        "marca": "Hyundai",
+        "modelo": "Tucson",
+        "origen": "Coreano",
+        "combustible": "Gasolina",
+        "carroceria": "SUV",
+        "motor": "Turbo"
+    },
+    {
+        "marca": "Mazda",
+        "modelo": "CX-5",
+        "origen": "Japonés",
+        "combustible": "Gasolina",
+        "carroceria": "SUV",
+        "motor": "Turbo"
+    },
+    {
+        "marca": "Toyota",
+        "modelo": "Supra",
+        "origen": "Japones",
+        "combustible": "Gasolina",
+        "carroceria": "Coupe",
+        "motor": "l6 TeinTurbo"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Explorer",
+        "origen": "Americano",
+        "combustible": "Gasolina",
+        "carroceria": "SUV",
+        "motor": "V6 TT"
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Fit",
+        "origen": "Japones",
+        "combustible": "Gasolina",
+        "carroceria": "Hatchback",
+        "motor": "l4"
+    }
+]
