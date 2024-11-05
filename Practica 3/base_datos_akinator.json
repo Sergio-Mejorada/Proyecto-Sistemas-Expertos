@@ -1,0 +1,71 @@
+{
+    "preguntas": {
+        "texto": "\u00bfEs un Vehiculo con motor de gasolina?",
+        "si": {
+            "texto": "\u00bfEl vehiculo es famoso de la pelicula Rapidos y Furiosos?",
+            "si": {
+                "texto": "\u00bfEs el iconico GT-R?",
+                "si": "NISSAN R34",
+                "no": {
+                    "texto": "\u00bfTiene motor l6 Twin Turbo?",
+                    "si": "TOYOTA SUPRA ",
+                    "no": null
+                }
+            },
+            "no": {
+                "texto": "\u00bfEs un vehiculo Aleman?",
+                "si": {
+                    "texto": "\u00bfTiene motor 6cil Twin Turbo?",
+                    "si": "BMW M1",
+                    "no": {
+                        "texto": "\u00bfEs el motor 4cil mas potente del mundo?",
+                        "si": "MERCEDES CLA45 AMG",
+                        "no": {
+                            "texto": "\u00bfEs la mejor SUV familiar?",
+                            "si": "X6M Competition",
+                            "no": {
+                                "texto": "\u00bfEs la SUV mas Rapida de todas?",
+                                "si": "CAYENNE TURBO GT",
+                                "no": null
+                            }
+                        }
+                    }
+                },
+                "no": {
+                    "texto": "\u00bfEs un vehiculo Japones?",
+                    "si": "HONDA CIVIC",
+                    "no": {
+                        "texto": "\u00bfEs una SUV Electrica?",
+                        "si": {
+                            "texto": "\u00bfEs el merjor descapotable Japones?",
+                            "si": "MAZDA MX-5",
+                            "no": null
+                        },
+                        "no": {
+                            "texto": "\u00bfTiene motor Ecoboost?",
+                            "si": "FORD EXPLORER ST",
+                            "no": null
+                        }
+                    }
+                }
+            }
+        },
+        "no": {
+            "texto": "\u00bfEs un vehiculo Hibrido?",
+            "si": {
+                "texto": "\u00bfEs la Hibrida mas moderna de 2024?",
+                "si": "BYD SONG PLUS",
+                "no": null
+            },
+            "no": {
+                "texto": "\u00bfEs la pickup mas futurista de todas?",
+                "si": "TESLA CYBERTRUCK",
+                "no": {
+                    "texto": "\u00bfEs la SUV con alas de Gaviota?",
+                    "si": "TESLA MODEL X",
+                    "no": null
+                }
+            }
+        }
+    }
+}
